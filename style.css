@@ -1,0 +1,11 @@
+.menu_bar a{
+    text-decoration: none;
+}
+.menu_bar ul{
+    list-style-type: none;
+    display:inline;
+    padding:0;
+}
+.menu_bar ul li{
+    display:inline;
+}
